@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Reels Escape</string>
+    <string name="accessibility_service_description">Reels Escape uses accessibility access solely to detect short-form video feeds (YouTube Shorts, Instagram Reels, Facebook Reels) and automatically navigate back to keep you focused. No data ever leaves your device.</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_statistics">Statistics</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Status -->
+    <string name="protection_active">Protection Active</string>
+    <string name="protection_disabled">Protection Disabled</string>
+    <string name="enable_accessibility">Enable Protection</string>
+    <string name="accessibility_warning">Accessibility access is required for Reels Escape to detect short-form video screens and automatically leave them.</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">REELS ESCAPE</string>
+    <string name="today_escapes">Today\'s Escapes</string>
+    <string name="this_week_escapes">This Week</string>
+    <string name="total_escapes">Total Escapes</string>
+    <string name="protected_apps">Protected Apps</string>
+    <string name="manage_apps">Manage Apps</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="no_recent_activity">No recent escapes. You are staying focused!</string>
+    
+    <!-- Apps -->
+    <string name="app_youtube">YouTube</string>
+    <string name="app_youtube_desc">Shorts Protection</string>
+    <string name="app_instagram">Instagram</string>
+    <string name="app_instagram_desc">Reels Protection</string>
+    <string name="app_facebook">Facebook</string>
+    <string name="app_facebook_desc">Reels Protection</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Escape the Scroll</string>
+    <string name="onboarding_desc_1">Reels Escape helps you stay focused by automatically leaving short-form video feeds like Shorts and Reels.</string>
+    <string name="onboarding_title_2">Privacy-First Protection</string>
+    <string name="onboarding_desc_2">We use Android Accessibility Service locally on your device. Zero data is recorded, saved, or sent to any server.</string>
+    <string name="onboarding_title_3">Select Protected Apps</string>
+    <string name="onboarding_desc_3">Choose which applications you want Reels Escape to monitor and protect.</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="btn_enable_permission">Enable Accessibility</string>
+    <string name="btn_finish_setup">Enable Protection</string>
+    
+    <!-- Settings -->
+    <string name="master_protection">Master Protection</string>
+    <string name="sensitivity_title">Detection Sensitivity</string>
+    <string name="sensitivity_low">Low (Conservative, 85%)</string>
+    <string name="sensitivity_medium">Medium (Balanced, 70%)</string>
+    <string name="sensitivity_high">High (Strict, 55%)</string>
+    <string name="debug_mode">Developer Debug Mode</string>
+    <string name="clear_history">Clear Escape History</string>
+    <string name="clear_history_confirm">Are you sure you want to delete all saved escape statistics?</string>
+    <string name="reset_settings">Reset All Settings</string>
+    <string name="about_privacy">Privacy Policy: 100% Local &amp; Private</string>
+    <string name="app_version">Version 1.0.0 (Offline Utility)</string>
+</resources>

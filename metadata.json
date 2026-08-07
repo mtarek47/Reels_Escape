@@ -1,0 +1,6 @@
+{
+  "name": "Reels Escape",
+  "description": "Local, privacy-focused utility that automatically detects and exits YouTube Shorts, Instagram Reels, and Facebook Reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
